@@ -3,7 +3,7 @@
 A responsive modern developer portfolio website showcasing full-stack Java projects, interactive animations, and engineering capabilities.
 
 ## Live Site
-- **URL:** [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+- **URL:** [https://myportfolio-sepia-xi-37.vercel.app/](https://myportfolio-sepia-xi-37.vercel.app/)
 
 ## Tech Stack
 - **Framework & Build:** React 19, Vite
